@@ -1,4 +1,4 @@
-names=["sreeja","jyothi","charanya","saibhavani","bhavani"]
+names=["sreeja","jyothi","anjana","saibhavani","bhavani"]
 marks=[88,23,63,56,87]
 p=1
 for i in range(5):
